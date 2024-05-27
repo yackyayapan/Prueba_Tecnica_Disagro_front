@@ -1,3 +1,7 @@
+## Diagramas de Apoyo
+A continuación coloco un link hacia el pdf que contiene los diagramas utilizados:
+https://drive.google.com/file/d/1wNaO5dk8JOVbT3lqOm_AEwa0QpRac98h/view?usp=sharing 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -35,6 +39,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
-Yackelyn Ayapan 
 
-Diagramas: https://drive.google.com/file/d/1wNaO5dk8JOVbT3lqOm_AEwa0QpRac98h/view?usp=sharing 
